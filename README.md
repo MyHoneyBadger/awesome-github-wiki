@@ -1,1 +1,1 @@
-# awesome-github-issues
+# awesome-github-wiki
