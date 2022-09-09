@@ -10,4 +10,4 @@ A curated list of awesome github wikis
 
 ## Contributing
 
-Contributions are very welcome!
+Contributions are very welcome! Please read the [contribution guideline](contributing.md) first.
