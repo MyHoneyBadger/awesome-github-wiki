@@ -1,6 +1,6 @@
-# Awesome Gihub Wikis [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome GiHub Wikis [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-A curated list of awesome Github wikis
+A curated list of awesome GitHub wikis
 
 ## Contents
 
