@@ -10,6 +10,7 @@ Every repository on GitHub.com comes equipped with a section for hosting documen
 - [Netflix/Hystrix](https://github.com/Netflix/Hystrix/wiki)
 - [mbostock/d3](https://github.com/d3/d3/wiki)
 - [thinkaurelius/titan](https://github.com/thinkaurelius/titan/wiki)
+- [guard/guard](https://github.com/guard/guard/wiki)
 
 ## Contributing
 Contributions are very welcome! Please read the [contribution guideline](contributing.md) first.
