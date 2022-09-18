@@ -4,8 +4,8 @@
 Every repository on [GitHub.com](https://github.com/) comes equipped with a section for hosting documentation, called a [wiki](https://docs.github.com/en/communities/documenting-your-project-with-wikis/about-wikis). Repository's wiki shares long-form content about project, such as how to use it, how you designed it, or its core principles. A README file quickly tells what project can do, while use a wiki to provide additional documentation.
 
 ## Contents
-- [Examples](https://github.com/MyHoneyBadger/awesome-github-wiki/edit/advise-how-to-create-good-wiki/README.md#examples)
-- [Useful links with tips & tricks](https://github.com/MyHoneyBadger/awesome-github-wiki/edit/advise-how-to-create-good-wiki/README.md#useful-links-with-tips--tricks)
+- [Examples](#examples)
+- [Useful links with tips & tricks](#useful-links-with-tips--tricks)
 
 ## Examples
 - [Netflix/Hystrix](https://github.com/Netflix/Hystrix/wiki)
