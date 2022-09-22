@@ -18,7 +18,7 @@ Every repository on [GitHub.com](https://github.com/) comes equipped with a sect
 - [Github Wiki Markdown tips and examples](https://medium.com/@apcoyne100/github-wiki-markdown-tips-and-examples-1bab1f0c0d25)
 - [Using GitHub Wiki for Software Development Documentation](https://sparkbox.com/foundry/github_wiki_tutorial_for_technical_wiki_documentation)
 - [GitHub Wiki by Nimble](https://nimblehq.co/compass/development/documentation/github-wiki/)
-
+- [Building a better GitHub Wiki](https://bugherd.com/blog/building-a-better-github-wiki/)
 
 ## Contributing
 Contributions are very welcome! Please read the [contribution guideline](contributing.md) first.
