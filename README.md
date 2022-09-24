@@ -11,7 +11,7 @@ Every repository on [GitHub.com](https://github.com/) comes equipped with a sect
 - [Netflix/Hystrix](https://github.com/Netflix/Hystrix/wiki)
 - [mbostock/d3](https://github.com/d3/d3/wiki)
 - [thinkaurelius/titan](https://github.com/thinkaurelius/titan/wiki)
-- [guard/guard](https://github.com/guard/guard/wiki)
+- [guard/guard](https://github.com/guard/guard/wiki/Guard-2.10.3-exits-when-Guardfile-is-changed)
 - [google/guava](https://github.com/google/guava/wiki)
 
 ## Useful links with tips & tricks
