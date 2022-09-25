@@ -13,6 +13,7 @@ Every repository on [GitHub.com](https://github.com/) comes equipped with a sect
 - [thinkaurelius/titan](https://github.com/thinkaurelius/titan/wiki)
 - [guard/guard](https://github.com/guard/guard/wiki/Guard-2.10.3-exits-when-Guardfile-is-changed)
 - [google/guava](https://github.com/google/guava/wiki)
+- [facebook/react-native](https://github.com/facebook/react-native/wiki)
 
 ## Useful links with tips & tricks
 - [GitHub official documentation](https://docs.github.com/en/communities/documenting-your-project-with-wikis)
