@@ -6,7 +6,7 @@ Every repository on [GitHub.com](https://github.com/) comes equipped with a sect
 ## Contents
 - [Examples](#examples)
 - [Useful links with tips & tricks](#useful-links-with-tips--tricks)
-- [Useful Stack Overflow questions & answers](#useful-stackoverflow-questions--answers)
+- [Useful Stack Overflow questions & answers](#useful-stack-overflow-questions--answers)
 
 ## Examples
 - [Netflix/Hystrix](https://github.com/Netflix/Hystrix/wiki)
