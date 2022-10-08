@@ -6,6 +6,7 @@ Every repository on [GitHub.com](https://github.com/) comes equipped with a sect
 ## Contents
 - [Examples](#examples)
 - [Useful links with tips & tricks](#useful-links-with-tips--tricks)
+- [Useful Stackoverflow questions & answers](#useful-stackoverflow-questions--answers)
 
 ## Examples
 - [Netflix/Hystrix](https://github.com/Netflix/Hystrix/wiki)
@@ -24,6 +25,13 @@ Every repository on [GitHub.com](https://github.com/) comes equipped with a sect
 - [Using GitHub Wiki for Software Development Documentation](https://sparkbox.com/foundry/github_wiki_tutorial_for_technical_wiki_documentation)
 - [GitHub Wiki by Nimble](https://nimblehq.co/compass/development/documentation/github-wiki/)
 - [Building a better GitHub Wiki](https://bugherd.com/blog/building-a-better-github-wiki/)
+
+## Useful Stackoverflow questions & answers
+- [How can I embed a YouTube video on GitHub wiki pages?](https://stackoverflow.com/questions/11804820/how-can-i-embed-a-youtube-video-on-github-wiki-pages)
+- [Resize image in the wiki of GitHub using Markdown](https://stackoverflow.com/questions/24383700/resize-image-in-the-wiki-of-github-using-markdown)
+- [Linking to other Wiki pages on GitHub?](https://stackoverflow.com/questions/6474045/linking-to-other-wiki-pages-on-github)
+- [How do I clone a GitHub wiki?](https://stackoverflow.com/questions/15080848/how-do-i-clone-a-github-wiki)
+- [How do I create some kind of table of content in GitHub wiki?](https://stackoverflow.com/questions/18244417/how-do-i-create-some-kind-of-table-of-content-in-github-wiki)
 
 ## Contributing
 Contributions are very welcome! Please read the [contribution guideline](contributing.md) first.
