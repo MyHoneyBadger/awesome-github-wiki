@@ -21,7 +21,7 @@ Every repository on [GitHub.com](https://github.com/) comes equipped with a sect
 - [GitHub official documentation](https://docs.github.com/en/communities/documenting-your-project-with-wikis)
 - [Creating a GitHub Wiki documentation for your repository](https://carldesouza.com/creating-a-github-wiki-documentation-for-your-repository/)
 - [Git Tutorial - 24 - GitHub Wiki](https://www.youtube.com/watch?v=4B0XNThjO0E)
-- [GitHub Wiki Markdown tips and examples](https://medium.com/@apcoyne100/github-wiki-markdown-tips-and-examples-1bab1f0c0d25)
+- [Github Wiki Markdown tips and examples](https://medium.com/@apcoyne100/github-wiki-markdown-tips-and-examples-1bab1f0c0d25)
 - [Using GitHub Wiki for Software Development Documentation](https://sparkbox.com/foundry/github_wiki_tutorial_for_technical_wiki_documentation)
 - [GitHub Wiki by Nimble](https://nimblehq.co/compass/development/documentation/github-wiki/)
 - [Building a better GitHub Wiki](https://bugherd.com/blog/building-a-better-github-wiki/)
