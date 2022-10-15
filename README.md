@@ -16,6 +16,7 @@ Every repository on [GitHub.com](https://github.com/) comes equipped with a sect
 - [google/guava](https://github.com/google/guava/wiki)
 - [facebook/react-native](https://github.com/facebook/react-native/wiki)
 - [FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome/wiki)
+- [uber/NullAway](https://github.com/uber/NullAway/wiki)
 
 ## Useful links with tips & tricks
 - [GitHub official documentation](https://docs.github.com/en/communities/documenting-your-project-with-wikis)
