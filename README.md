@@ -19,7 +19,7 @@ Every repository on [GitHub.com](https://github.com/) comes equipped with a sect
 - [uber/NullAway](https://github.com/uber/NullAway/wiki)
 
 ## Useful links with tips & tricks
-- [GitHub official documentation](https://docs.github.com/en/communities/documenting-your-project-with-wikis)
+- [GitHub official documentation. About wiki](https://docs.github.com/en/communities/documenting-your-project-with-wikis/about-wikis)
 - [Learning GitHub - Making Wikis](https://www.youtube.com/watch?v=bnMl0d-RcPQ)
 - [Creating a GitHub Wiki documentation for your repository](https://carldesouza.com/creating-a-github-wiki-documentation-for-your-repository/)
 - [Git Tutorial - 24 - GitHub Wiki](https://www.youtube.com/watch?v=4B0XNThjO0E)
