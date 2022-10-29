@@ -33,6 +33,7 @@ Every repository on [GitHub.com](https://github.com/) comes equipped with a sect
 - [Linking to other Wiki pages on GitHub?](https://stackoverflow.com/questions/6474045/linking-to-other-wiki-pages-on-github)
 - [How do I clone a GitHub wiki?](https://stackoverflow.com/questions/15080848/how-do-i-clone-a-github-wiki)
 - [How do I create some kind of table of content in GitHub wiki?](https://stackoverflow.com/questions/18244417/how-do-i-create-some-kind-of-table-of-content-in-github-wiki)
+- [GitHub wiki directories](https://stackoverflow.com/questions/11088285/github-wiki-directories)
 
 ## Contributing
 Contributions are very welcome! Please read the [contribution guideline](contributing.md) first.
