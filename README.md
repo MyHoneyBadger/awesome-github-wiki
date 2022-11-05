@@ -10,6 +10,7 @@ Every repository on [GitHub.com](https://github.com/) comes equipped with a sect
 
 ## Examples
 - [Netflix/Hystrix](https://github.com/Netflix/Hystrix/wiki)
+- [aws/aws-parallelcluster](https://github.com/aws/aws-parallelcluster/wiki)
 - [mbostock/d3](https://github.com/d3/d3/wiki)
 - [thinkaurelius/titan](https://github.com/thinkaurelius/titan/wiki)
 - [guard/guard](https://github.com/guard/guard/wiki/Guard-2.10.3-exits-when-Guardfile-is-changed)
