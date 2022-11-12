@@ -35,6 +35,7 @@ Every repository on [GitHub.com](https://github.com/) comes equipped with a sect
 - [How do I clone a GitHub wiki?](https://stackoverflow.com/questions/15080848/how-do-i-clone-a-github-wiki)
 - [How do I create some kind of table of content in GitHub wiki?](https://stackoverflow.com/questions/18244417/how-do-i-create-some-kind-of-table-of-content-in-github-wiki)
 - [GitHub wiki directories](https://stackoverflow.com/questions/11088285/github-wiki-directories)
+- [GitHub Wiki - Source code syntax highlighting](https://stackoverflow.com/questions/11505503/github-wiki-source-code-syntax-highlighting)
 
 ## Contributing
 Contributions are very welcome! Please read the [contribution guideline](contributing.md) first.
