@@ -23,6 +23,7 @@ Every repository on [GitHub.com](https://github.com/) comes equipped with a sect
 - [Learning GitHub - Making Wikis](https://www.youtube.com/watch?v=bnMl0d-RcPQ)
 - [Creating a GitHub Wiki documentation for your repository](https://carldesouza.com/creating-a-github-wiki-documentation-for-your-repository/)
 - [Git Tutorial - 24 - GitHub Wiki](https://www.youtube.com/watch?v=4B0XNThjO0E)
+- [How To Add Images To A GitHub Wiki](http://mikehadlow.blogspot.com/2014/03/how-to-add-images-to-github-wiki.html)
 - [GitHub Wiki Markdown tips and examples](https://medium.com/@apcoyne100/github-wiki-markdown-tips-and-examples-1bab1f0c0d25)
 - [Using GitHub Wiki for Software Development Documentation](https://sparkbox.com/foundry/github_wiki_tutorial_for_technical_wiki_documentation)
 - [GitHub Wiki by Nimble](https://nimblehq.co/compass/development/documentation/github-wiki/)
