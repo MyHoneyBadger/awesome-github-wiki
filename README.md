@@ -14,6 +14,7 @@ Every repository on [GitHub.com](https://github.com/) comes equipped with a sect
 - [mbostock/d3](https://github.com/d3/d3/wiki)
 - [thinkaurelius/titan](https://github.com/thinkaurelius/titan/wiki)
 - [guard/guard](https://github.com/guard/guard/wiki/Guard-2.10.3-exits-when-Guardfile-is-changed)
+- [apple/foundationdb](https://github.com/apple/foundationdb/wiki)
 - [google/guava](https://github.com/google/guava/wiki)
 - [facebook/react-native](https://github.com/facebook/react-native/wiki)
 - [FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome/wiki)
