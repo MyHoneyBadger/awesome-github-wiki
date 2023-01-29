@@ -29,6 +29,7 @@ Every repository on [GitHub.com](https://github.com/) comes equipped with a sect
 - [Using GitHub Wiki for Software Development Documentation](https://sparkbox.com/foundry/github_wiki_tutorial_for_technical_wiki_documentation)
 - [GitHub Wiki by Nimble](https://nimblehq.co/compass/development/documentation/github-wiki/)
 - [Building a better GitHub Wiki](https://bugherd.com/blog/building-a-better-github-wiki/)
+- [Hack GitHub to build your own wiki in five steps](https://ably.com/blog/hacking-github-to-build-your-own-wiki)
 
 ## Useful Stack Overflow questions & answers
 - [How can I embed a YouTube video on GitHub wiki pages?](https://stackoverflow.com/questions/11804820/how-can-i-embed-a-youtube-video-on-github-wiki-pages)
