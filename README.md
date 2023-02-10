@@ -1,7 +1,7 @@
 # Awesome GitHub Wikis [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-> A curated list of awesome GitHub wikis
+> A curated list of awesome GitHub Wikis
 
-Every repository on [GitHub.com](https://github.com/) comes equipped with a section for hosting documentation, called a [wiki](https://docs.github.com/en/communities/documenting-your-project-with-wikis/about-wikis). Repository's wiki shares long-form content about project, such as how to use it, how you designed it, or its core principles. A README file quickly tells what project can do, while use a wiki to provide additional documentation.
+Every repository on [GitHub.com](https://github.com/) comes equipped with a section for hosting documentation, called a [Wiki](https://docs.github.com/en/communities/documenting-your-project-with-wikis/about-wikis). Repository's Wiki shares long-form content about project, such as how to use it, how you designed it, or its core principles. A README file quickly tells what project can do, while use a Wiki to provide additional documentation.
 
 ## Contents
 - [Examples](#examples)
@@ -33,15 +33,15 @@ Every repository on [GitHub.com](https://github.com/) comes equipped with a sect
 - [Upload images to Wiki pages](https://github.blog/changelog/2022-02-14-upload-images-to-wiki-pages/)
 
 ## Useful Stack Overflow questions & answers
-- [How can I embed a YouTube video on GitHub wiki pages?](https://stackoverflow.com/questions/11804820/how-can-i-embed-a-youtube-video-on-github-wiki-pages)
+- [How can I embed a YouTube video on GitHub Wiki pages?](https://stackoverflow.com/questions/11804820/how-can-i-embed-a-youtube-video-on-github-wiki-pages)
 - [Resize image in the wiki of GitHub using Markdown](https://stackoverflow.com/questions/24383700/resize-image-in-the-wiki-of-github-using-markdown)
 - [Linking to other Wiki pages on GitHub?](https://stackoverflow.com/questions/6474045/linking-to-other-wiki-pages-on-github)
-- [How do I clone a GitHub wiki?](https://stackoverflow.com/questions/15080848/how-do-i-clone-a-github-wiki)
-- [How do I create some kind of table of content in GitHub wiki?](https://stackoverflow.com/questions/18244417/how-do-i-create-some-kind-of-table-of-content-in-github-wiki)
-- [GitHub wiki directories](https://stackoverflow.com/questions/11088285/github-wiki-directories)
+- [How do I clone a GitHub Wiki?](https://stackoverflow.com/questions/15080848/how-do-i-clone-a-github-wiki)
+- [How do I create some kind of table of content in GitHub Wiki?](https://stackoverflow.com/questions/18244417/how-do-i-create-some-kind-of-table-of-content-in-github-wiki)
+- [GitHub Wiki directories](https://stackoverflow.com/questions/11088285/github-wiki-directories)
 - [GitHub Wiki - Source code syntax highlighting](https://stackoverflow.com/questions/11505503/github-wiki-source-code-syntax-highlighting)
-- [How to structure GitHub wiki files?](https://stackoverflow.com/questions/24236829/how-to-structure-github-wiki-files)
-- [How do I prevent auto-generated links in the GitHub wiki?](https://stackoverflow.com/questions/25706012/how-do-i-prevent-auto-generated-links-in-the-github-wiki)
+- [How to structure GitHub Wiki files?](https://stackoverflow.com/questions/24236829/how-to-structure-github-wiki-files)
+- [How do I prevent auto-generated links in the GitHub Wiki?](https://stackoverflow.com/questions/25706012/how-do-i-prevent-auto-generated-links-in-the-github-wiki)
 
 ## Contributing
 Contributions are very welcome! Please read the [contribution guideline](contributing.md) first.
