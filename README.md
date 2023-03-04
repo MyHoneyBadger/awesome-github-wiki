@@ -43,7 +43,7 @@ Wiki should be detail, up to date and well structured. It should be easy to find
 - [GitHub Wiki - Source code syntax highlighting](https://stackoverflow.com/questions/11505503/github-wiki-source-code-syntax-highlighting)
 - [How to structure GitHub Wiki files?](https://stackoverflow.com/questions/24236829/how-to-structure-github-wiki-files)
 - [How do I prevent auto-generated links in the GitHub Wiki?](https://stackoverflow.com/questions/25706012/how-do-i-prevent-auto-generated-links-in-the-github-wiki)
-- [How HTML5 Boilerplate converts github wiki to its website?](https://stackoverflow.com/questions/8624865/how-html5-boilerplate-converts-github-wiki-to-its-website)
+- [How HTML5 Boilerplate converts GitHub Wiki to its website?](https://stackoverflow.com/questions/8624865/how-html5-boilerplate-converts-github-wiki-to-its-website)
 
 ## Contributing
 Contributions are very welcome! Please read the [contribution guideline](contributing.md) first.
