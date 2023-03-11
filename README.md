@@ -13,6 +13,7 @@ Wiki should be detail, up to date and well structured. It should be easy to find
 - [Netflix/Hystrix](https://github.com/Netflix/Hystrix/wiki)
 - [aws/aws-parallelcluster](https://github.com/aws/aws-parallelcluster/wiki)
 - [mbostock/d3](https://github.com/d3/d3/wiki)
+- [facebook/hhvm](https://github.com/facebook/hhvm/wiki)
 - [thinkaurelius/titan](https://github.com/thinkaurelius/titan/wiki)
 - [guard/guard](https://github.com/guard/guard/wiki/Guard-2.10.3-exits-when-Guardfile-is-changed)
 - [apple/foundationdb](https://github.com/apple/foundationdb/wiki)
