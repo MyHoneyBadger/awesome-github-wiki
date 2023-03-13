@@ -35,6 +35,7 @@ Wiki should be detail, up to date and well structured. It should be easy to find
 - [Hack GitHub to build your own wiki in five steps](https://ably.com/blog/hacking-github-to-build-your-own-wiki)
 - [Upload images to Wiki pages](https://github.blog/changelog/2022-02-14-upload-images-to-wiki-pages/)
 - [Git And GitHub Course - Master Git And GitHub - GitHub Wiki](https://www.learnvern.com/git-and-github-tutorial/wiki)
+- [How To Use GitHub Wikis For Collaborative Documentation](https://labs.inn.org/2014/05/19/applying-git-to-github-wikis/)
 
 ## Useful Stack Overflow questions & answers
 - [How can I embed a YouTube video on GitHub Wiki pages?](https://stackoverflow.com/questions/11804820/how-can-i-embed-a-youtube-video-on-github-wiki-pages)
