@@ -20,6 +20,7 @@ Wiki should be detail, up to date and well structured. It should be easy to find
 - [google/guava](https://github.com/google/guava/wiki)
 - [facebook/react-native](https://github.com/facebook/react-native/wiki)
 - [FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome/wiki)
+- [golang/go](https://github.com/golang/go/wiki)
 - [uber/NullAway](https://github.com/uber/NullAway/wiki)
 
 ## Useful links with tips & tricks
