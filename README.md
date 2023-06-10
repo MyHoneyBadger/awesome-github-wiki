@@ -50,6 +50,7 @@ Wiki should be detail, up to date and well structured. It should be easy to find
 - [How do I prevent auto-generated links in the GitHub Wiki?](https://stackoverflow.com/questions/25706012/how-do-i-prevent-auto-generated-links-in-the-github-wiki)
 - [How HTML5 Boilerplate converts GitHub Wiki to its website?](https://stackoverflow.com/questions/8624865/how-html5-boilerplate-converts-github-wiki-to-its-website)
 - [ToC or Sidebar in GitHub Wiki](https://stackoverflow.com/questions/9239588/toc-or-sidebar-in-github-wiki)
+- [GitHub Wiki doesn't support HTML tables anymore?](https://stackoverflow.com/questions/45657579/github-wiki-doesnt-support-html-tables-anymore)
 
 ## Contributing
 Contributions are very welcome! Please read the [contribution guideline](contributing.md) first.
