@@ -27,6 +27,7 @@ Wiki should be detail, up to date and well structured. It should be easy to find
 - [Learning GitHub - Making Wikis](https://www.youtube.com/watch?v=bnMl0d-RcPQ)
 - [Creating a GitHub Wiki documentation for your repository](https://carldesouza.com/creating-a-github-wiki-documentation-for-your-repository/)
 - [Git Tutorial - 24 - GitHub Wiki](https://www.youtube.com/watch?v=4B0XNThjO0E)
+- [Search wiki of the repository on GitHub](https://github.com/linyows/github-wiki-search)
 - [How To Add Images To A GitHub Wiki](http://mikehadlow.blogspot.com/2014/03/how-to-add-images-to-github-wiki.html)
 - [GitHub Wiki Markdown tips and examples](https://medium.com/@apcoyne100/github-wiki-markdown-tips-and-examples-1bab1f0c0d25)
 - [GitHub Projects, Teams, Fork & Wiki For Documenting Projects](https://www.softwaretestinghelp.com/github-projects-teams-fork-wiki)
