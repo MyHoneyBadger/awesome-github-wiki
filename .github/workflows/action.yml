@@ -1,4 +1,4 @@
-name: CI
+name: Awesome Lint
 
 on:
   pull_request:
