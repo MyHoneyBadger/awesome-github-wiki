@@ -7,7 +7,7 @@ Every repository on [GitHub.com](https://github.com/) comes equipped with a sect
 - [Examples](#examples)
 - [Useful links with tips & tricks](#useful-links-with-tips--tricks)
 - [Useful Stack Overflow questions & answers](#useful-stack-overflow-questions--answers)
-- [Popular AI Tools](#popular_ai_tools)
+- [Popular AI Tools](#popular-ai-tools)
 
 ## Examples
 Wiki should be detail, up to date and well structured. It should be easy to find required information and navigate through the pages. Use rich possibilities of Markdown in Wiki formatting. Wiki doesn't fully repeat information which is already presented at README. The following list of examples represents mentioned good practices:    
