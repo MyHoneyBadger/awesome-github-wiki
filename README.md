@@ -71,6 +71,7 @@ Wiki should be detail, up to date and well structured. It should be easy to find
 - [LLM Wiki](https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f)
 - [Github Wiki Generator](https://github.com/Satttoshi/github-wiki-generator)
 - [OpenDeepWiki](https://github.com/AIDotNet/OpenDeepWiki)
+- [Github Wiki Generator](https://github.com/Samyc2002/GithubWikiGenerator)
 
 ## Contributing
 Contributions are very welcome! Please read the [contribution guideline](contributing.md) first.
