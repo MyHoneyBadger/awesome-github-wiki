@@ -24,6 +24,7 @@ Wiki should be detail, up to date and well structured. It should be easy to find
 - [internetarchive/openlibrary](https://github.com/internetarchive/openlibrary/wiki)
 - [JustArchiNET/ArchiSteamFarm](https://github.com/JustArchiNET/ArchiSteamFarm/wiki)
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet/wiki)
+- [Isthimius/Gondwana](https://github.com/Isthimius/Gondwana/wiki)
 
 ## Useful links with tips & tricks
 - [What is a GitHub Wiki and How Do You Use it?](https://www.freecodecamp.org/news/what-is-github-wiki-and-how-do-you-use-it/)
