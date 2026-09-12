@@ -68,6 +68,7 @@ Wiki should be detail, up to date and well structured. It should be easy to find
 ## Popular AI Tools
 - [CodeWiki (Google)](https://codewiki.google/)
 - [DeepWiki](https://docs.devin.ai/work-with-devin/deepwiki)
+- [Ivy Tendril](https://github.com/Ivy-Interactive/Ivy-Tendril) - Open-source Git GUI and multi-worktree client with an amazing UI built for parallel agentic workflows, featuring programmatic verifications and review loops
 - [RepoWiki](https://github.com/he-yufeng/RepoWiki)
 - [LLM Wiki](https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f)
 - [Github Wiki Generator](https://github.com/Satttoshi/github-wiki-generator)
