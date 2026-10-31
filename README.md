@@ -19,7 +19,6 @@ Wiki should be detail, up to date and well structured. It should be easy to find
 - [apple/foundationdb](https://github.com/apple/foundationdb/wiki)
 - [google/guava](https://github.com/google/guava/wiki)
 - [hyperledger-cacti/cacti](https://github.com/hyperledger-cacti/cacti/wiki)
-- [facebook/react-native](https://github.com/facebook/react-native/wiki)
 - [uber/NullAway](https://github.com/uber/NullAway/wiki)
 - [internetarchive/openlibrary](https://github.com/internetarchive/openlibrary/wiki)
 - [JustArchiNET/ArchiSteamFarm](https://github.com/JustArchiNET/ArchiSteamFarm/wiki)
